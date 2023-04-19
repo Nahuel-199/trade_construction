@@ -6,7 +6,7 @@ const Header = () => {
   return (
     <div id="main">
       <div className="header-heading">
-        <h1>Construyamos Su Sueño</h1>
+        <h1>Construyamos su sueño</h1>
         <p className="details">Nuestro compromiso es ofrecerle</p>
         <p className="details">
           productos de la más alta calidad en construcciones, para que su hogar

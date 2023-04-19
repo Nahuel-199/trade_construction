@@ -15,8 +15,8 @@ const Navbar = () => {
        {/*  <Link to="main" className="logo"  smooth={true} duration={2000}>
             <img src={logo} alt="logo" className='img_finance'/>
         </Link> */}
-        <span className='span_logo'>NOMBRE DE EMPRENDIMIENTO</span>
-        <span className='span_logo2'>LOGO</span>
+        <span className='span_logo'>JGG CONTRUCCIONES</span>
+        <span className='span_logo2'>JGG CONTRUCCIONES</span>
         <div className="menu-icons" onClick={handleClick}>
         <i className={clicked ? "fas fa-times" : "fas fa-bars"} style={{color: "gray"}}></i>
       </div>

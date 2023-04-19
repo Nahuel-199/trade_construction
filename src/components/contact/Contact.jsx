@@ -129,13 +129,13 @@ const Contact = () => {
             </div>
 
             <div className="contact__form-div contact__form-area">
-              <label className="contact__form-tag">Proyecto</label>
+              <label className="contact__form-tag">Consulta</label>
               <textarea
                 name="project"
                 cols="30"
                 rows="10"
                 className="contact__form-input"
-                placeholder="Ponga su projecto"
+                placeholder="Haga su consulta"
                 required
               ></textarea>
             </div>

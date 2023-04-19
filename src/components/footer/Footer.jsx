@@ -8,7 +8,7 @@ const Footer = () => {
     <footer className="footer">
       <div className="footer__container container">
         <img src={logo} alt="logo" className="img_footer" />
-        <h1 className="footer__title">EMPRENDIMIENTO</h1>
+        <h1 className="footer__title">JGG CONTRUCCIONES</h1>
         <ul className="footer__list">
           <li>
             <a href="#about" className="footer__link">
